@@ -1,0 +1,17 @@
+
+
+.DrakeReedit16bar8and8128t {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height:auto;
+}
+
+h1 {
+  font-family: helvetica, sans-serif;
+}
+
+
+p {
+  font-family: monospace;
+}
